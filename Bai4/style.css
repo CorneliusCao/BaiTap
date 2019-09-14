@@ -1,0 +1,29 @@
+body {
+	background-image: url('https://ak5.picdn.net/shutterstock/videos/18977545/thumb/1.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 1000px;
+	font-family: Ariel;
+}
+
+.header {
+	font-weight: bold;
+	font-size: 35px;
+	color: #008888;
+	text-align: center;
+}
+
+.first-para {
+	color: #FFF;
+	font-weight: bold;
+	background-color: #339999;
+	width: 650px;
+}
+
+.second-para, .third-para {
+	width: 650px;
+	color: #008888;
+}
+
+.first-para, .second-para, .third-para {
+	margin: 20px auto;
+}

@@ -1,0 +1,60 @@
+body {
+	font-family: Ariel;
+}
+
+.caption {
+	font-size: 32px;
+	color: #257F06;
+	font-weight: bold;
+}
+
+
+.list {
+	list-style-type: none;
+}
+
+.table {
+	background-color: #CBEEC2;
+}
+
+.table th{
+	font-weight: lighter;
+	text-align: left;
+	color: #28BB04;
+}
+
+.table {
+	border-collapse: collapse;
+	border: 1px solid #1F8204;
+}
+
+.name-txtbox {
+	width: 450px;
+}
+
+.address-textbox {
+	width: 320px;
+}
+
+.phone-textbox {
+	width: 290px;
+}
+
+.button {
+	margin: 1px 41%;
+}
+
+.radio-container {
+	color: #28BB04;
+}
+
+input[type="text"] {
+	margin: 1px;
+}
+
+.list {
+	background-color: #FFF;
+	margin: 1px 1px 1px 2px;
+	padding: 0;
+	width: 100px;
+}

@@ -1,0 +1,19 @@
+body {
+	font-family: Ariel;
+}
+
+.header {
+	font-weight: 700;
+	font-size: 32px;
+}
+
+.request {
+	font-size: 27px;
+	text-decoration: underline;
+	font-weight: bolder;
+}
+
+.content {
+	font-size: 18px;
+	font-weight: bold;
+}

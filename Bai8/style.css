@@ -1,0 +1,41 @@
+body {
+	background-color: #FFEDCA;
+}
+
+.table th {
+	text-align: center;
+	font-weight: bold;
+	background-color: #CC6600;
+	color: #FFF;
+}
+
+.table {
+	border-collapse: collapse;
+	border: 3px solid #AC1282;
+	height: 300px;
+	width: 500px;
+}
+
+h1 {
+	color: #CC6600;
+	font-size: 32px;
+}
+
+
+
+tr:nth-child(even) {
+	background-color: #FFF;
+}
+
+.container {
+	display: flex;
+}
+
+.right {
+	margin-left: 20px;
+}
+
+.image {
+	height: 256px;
+	width: 256px;
+}

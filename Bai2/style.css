@@ -1,0 +1,61 @@
+body {
+	font-family: Ariel;
+}
+
+.header {
+	font-size: 35px;
+	font-weight: bold;
+	color: green;
+}
+
+.request {
+	font-size: 26px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: blue;
+}
+
+.open {
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.title {
+	text-align: center;
+	font-size: 26px;
+	font-weight: bold;
+	background-color: #FECFFD;
+	color: #FF3399;
+}
+
+.content {
+	text-align: center;
+	background-color: #FFFFCC;
+	font-style: italic;
+	font-size: 18px;
+}
+
+
+.content p {
+	margin: 0;
+	padding: 0;
+}
+
+.first-para {
+	color: blue;
+}
+
+.second-para {
+	color: red;
+}
+
+.last-para {
+	color: green;
+}
+
+.border-bottom {
+	width: 335px;
+	background-color: #DDD;
+	height: 2px;
+	margin: 5px auto 40px auto;
+}

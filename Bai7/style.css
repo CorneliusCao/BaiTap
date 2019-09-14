@@ -1,0 +1,60 @@
+body {
+	font-family: Ariel;
+}
+
+h1 {
+	text-align: center;
+	color: rgb(236, 103, 143);
+}
+
+
+.left {
+	height: 600px;
+	width: 400px;
+}
+
+.image {
+	margin: 0;
+	padding: 0;
+	height: 250px;
+	width: 400px;
+}
+
+.container {
+	display: flex;
+	height: 300px;
+}
+
+.style-title {
+	background-color: rgb(236, 103, 143);
+	font-weight: bold;
+	color: #FFF;
+	width: 80px;
+}
+
+.first-list {
+	list-style: square;
+}
+
+.tab-between {
+	margin-left: 23px;
+	font-style: italic;
+}
+
+.footer {
+	float: right;
+}
+
+.footer-style {
+	font-weight: bold;
+	text-decoration: underline;
+	color: blue;
+}
+
+.line {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	width: 500px;
+	background-color: #DDD;
+	height: 3px;
+}

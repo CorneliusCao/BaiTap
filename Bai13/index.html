@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="./style.css">
+</head>
+<body>
+	<p class="caption">Đăng ký du lịch</p>
+	<table class="table" border="1">
+		<tbody>
+			<col width="110px">
+			<col width="500px">
+			<tr>
+				<th>Họ và tên</th>
+				<td><input type="text" name="" class="name-txtbox"></td>
+			</tr>
+			<tr>
+				<th>Địa chỉ</th>
+				<td><input type="text" name="" class="address-textbox"></td>
+			</tr>
+			<tr>
+				<th>Điện thoại</th>
+				<td><input type="text" name="" class="phone-textbox"></td>
+			</tr>
+			<tr>
+				<th>Khách Việt Nam</th>
+				<td>
+					<div class="radio-container">
+						<input type="checkbox" name="gender" value="male" id="male">
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<th>Chọn tour</th>
+				<td>
+					<select>
+						<optgroup label="Miền Bắc">
+							<option>Hà Nội - Hạ Long - Sapa</option>
+							<option>Hà Nội - Chùa Hương - Ninh Bình</option>
+							<option>Hà Nội - Cát Bà - Tuần Châu</option>
+						</optgroup>
+						<optgroup label="Miền Trung">
+							<option>Huế - Bạch Mã - Đà Nẵng</option>
+							<option>Nha Trang - Đà Lạt</option>
+							<option>Buôn Mê Thuật - Gia Lai - Kontum</option>
+						</optgroup>
+						<optgroup label="Miền Nam">
+							<option>TP.HCM - Cần Thơ - Cà Mau<</option>
+							<option>TP.HCM - Mỹ Tho</option>
+						</optgroup>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<th>Phương tiện</th>
+				<td style="color: #005FF0">
+					<input type="radio" name="trans" value="Máy bay" id="plane">
+					<label for="plane">Máy bay</label>
+					<input type="radio" name="trans" value="Máy bay" id="car">
+					<label for="car">Xe ô tô</label>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<form>
+						<fieldset class="fieldset">
+							<legend class="legend">Số lượng đoàn khách</legend>
+							<label for="adult">Người lớn</label>
+							<input  type="text" name="" id="adult">
+							<label for="kid">Trẻ em</label>
+							<input type="text" name="" id="kid">
+						</fieldset>
+					</form>
+				</td>
+			</tr>
+
+			<tr>
+				<th>Ghi chú thêm</th>
+				<td>
+					<textarea class="textarea">
+						
+					</textarea>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" class="button-container">
+					<button class="button">Đồng ý</button>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
