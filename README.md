@@ -33,5 +33,5 @@
 ## Bài 12
 ![](https://imgur.com/l3lcfhF.png)
 
-## Bài 2
+## Bài 13
 ![](https://imgur.com/wJK9ytP.png)
