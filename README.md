@@ -31,7 +31,7 @@
 ![](https://imgur.com/2K09N0D.png)
 
 ## Bài 12
-![](https://imgur.com/g2uz6qY.png)
+![](https://imgur.com/Q9wyzPo.png)
 
 ## Bài 13
 ![](https://imgur.com/95PcbFE.png)
