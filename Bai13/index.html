@@ -9,7 +9,7 @@
 	<p class="caption">Đăng ký du lịch</p>
 	<table class="table" border="1">
 		<tbody>
-			<col width="110px">
+			<col width="120px">
 			<col width="500px">
 			<tr>
 				<th>Họ và tên</th>
@@ -63,13 +63,15 @@
 			</tr>
 			<tr>
 				<td colspan="2">
-					<form>
+					<form class="form1">
 						<fieldset class="fieldset">
 							<legend class="legend">Số lượng đoàn khách</legend>
-							<label for="adult">Người lớn</label>
-							<input  type="text" name="" id="adult">
-							<label for="kid">Trẻ em</label>
-							<input type="text" name="" id="kid">
+							<div class="content">
+								<label for="adult">Người lớn</label>
+								<input  type="text" name="" id="adult">
+								<label for="kid">Trẻ em</label>
+								<input type="text" name="" id="kid">
+							</div>
 						</fieldset>
 					</form>
 				</td>
@@ -78,14 +80,12 @@
 			<tr>
 				<th>Ghi chú thêm</th>
 				<td>
-					<textarea class="textarea">
-						
-					</textarea>
+					<textarea class="textarea"></textarea>
 				</td>
 			</tr>
 			<tr>
 				<td colspan="2" class="button-container">
-					<button class="button">Đồng ý</button>
+					<input type="submit" name="" class="button" value="Đồng ý">
 				</td>
 			</tr>
 		</tbody>

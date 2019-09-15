@@ -3,41 +3,39 @@ body {
 }
 
 .caption {
-	font-size: 32px;
+	font-size: 24px;
 	color: #257F06;
 	font-weight: bold;
-}
-
-
-.list {
-	list-style-type: none;
-}
-
-.table {
-	background-color: #CBEEC2;
 }
 
 .table th{
 	font-weight: lighter;
 	text-align: left;
-	color: #28BB04;
+	color: #568E13;
+}
+
+.table td {
+	width: 300px;
 }
 
 .table {
 	border-collapse: collapse;
 	border: 1px solid #1F8204;
+	background-color: #C6EBBC;
+	height: 300px;
+	width: 500px;
 }
 
-.name-txtbox {
-	width: 450px;
+.name-textbox {
+	width: 275px;
 }
 
 .address-textbox {
-	width: 320px;
+	width: 230px;
 }
 
 .phone-textbox {
-	width: 290px;
+	width: 200px;
 }
 
 .button {
@@ -45,7 +43,7 @@ body {
 }
 
 .radio-container {
-	color: #28BB04;
+	color: #568E13;
 }
 
 input[type="text"] {
@@ -57,4 +55,9 @@ input[type="text"] {
 	margin: 1px 1px 1px 2px;
 	padding: 0;
 	width: 100px;
+	list-style-type: none;
+}
+
+.number {
+	width: 90px;
 }

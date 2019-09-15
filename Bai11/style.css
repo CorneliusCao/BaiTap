@@ -2,7 +2,10 @@
 	border-collapse: collapse;
 	border: 1px solid #9509B8;
 	background-color: #B3E4F3;
+	width: 270px;
+	height: 80px;
 }
+
 
 .table th {
 	text-align: left;
@@ -20,8 +23,10 @@
 }
 
 .button {
-	margin: 2px 40%;
-	width: 70px;
+	display: block;
+	margin: 0 auto;
+	width: 60px;
+	height: 25px;
 }
 
 input[type="text"] {
