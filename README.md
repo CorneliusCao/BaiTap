@@ -22,16 +22,16 @@
 ![](https://imgur.com/XbYAk1N.png)
 
 ## Bài 8
-![](https://imgur.com/zuKRepw.png)
+![](https://imgur.com/cSxUY8r.png)
 
 ## Bài 9
-![](https://imgur.com/ueLSxs3.png)
+![](https://imgur.com/onF5n4J.png)
 
 ## Bài 11
-![](https://imgur.com/J8juGPn.png)
+![](https://imgur.com/2K09N0D.png)
 
 ## Bài 12
-![](https://imgur.com/l3lcfhF.png)
+![](https://imgur.com/g2uz6qY.png)
 
 ## Bài 13
-![](https://imgur.com/wJK9ytP.png)
+![](https://imgur.com/95PcbFE.png)
